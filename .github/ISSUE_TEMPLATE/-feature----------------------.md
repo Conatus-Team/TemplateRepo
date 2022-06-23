@@ -11,10 +11,10 @@ assignees: ''
 - [ ] 이슈 제목 작성
 - [ ] Assigneers, Label 붙여주세요
 
-# Description
+## Description
 - 설명을 작성해주세요
 
-# TODO
+## TODO
 - [ ] 할 일
 
 <!-- 
