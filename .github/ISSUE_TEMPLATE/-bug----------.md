@@ -11,15 +11,15 @@ assignees: ''
 - [ ] 이슈 제목 작성
 - [ ] Assigneers, Label 붙여주세요
 
-# Description
+## Description
 - 버그를 재현하려면 어떻게 해야 하는지
 - 내가 한 행동 (구체적)
 - 이용 환경 (os, 브라우저 등등)
 
-# 목표
+## 목표
 - 정상 동작이면 어떻게 되어야 하는지
 
-# TODO
+## TODO
 - 무엇을 해야 하는지
 
 <!-- 
